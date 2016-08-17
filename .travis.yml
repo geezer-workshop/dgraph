@@ -2,6 +2,7 @@ language: go
 go:
   - 1.6
     #  - tip
+dist: trusty
 sudo: required
 #notifications:
 #  slack:
